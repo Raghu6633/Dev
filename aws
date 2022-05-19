@@ -1,0 +1,4 @@
+Service nfs status :[[[C:df[C[C[C[C[C -h
+#!bin/bash
+#!bin/bashservice ngs status:df -h#!bin/bash
+service ngs status:df -h
